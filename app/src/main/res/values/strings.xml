@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">SubwayProj</string>
+    <string name="route_calculate">Route calculate</string>
+    <string name="your_route">Your route</string>
+    <string name="check_weather">Check weather</string>
+    <string name="pick_a_date">Pick a date</string>
+    <string name="bucharest_subway_information">Bucharest Subway information</string>
+    <string name="bucharest_subway">Information</string>
+    <string name="article_subtitle">Bucharest Subway</string>
+    <string name="article_text">The Bucharest Metro (Romanian: Metroul București) is an underground rapid transit system that serves Bucharest, the capital of Romania. It first opened for service on 19 November 1979. The network is run by Metrorex. One of two parts of the larger Bucharest public transport network, Metrorex has an average of approximately 720,000 passenger trips per weekday, compared to the 1,180,000 daily riders on Bucharest\'s STB transit system. In total, the Metrorex system is 71.35 kilometres (44.3 mi) long and has 47 stations. For more information, check http://www.metrorex.ro.
+        \n\n
+        <b>History</b>
+        \n\n
+        The first proposals for a metro system in Bucharest were made in the early part of the 20th century, by the Romanian engineers Dimitrie Leonida and Elie Radu. The earliest plans for a Bucharest Metro were drafted in the late 1930s, alongside the general plans for urban modernization of the city. The outbreak of World War II, followed by periods of political tensions culminating with the installation of communism, put an end to the plans.
+        \n\n
+        <b>Metrorex</b>
+        \n\n
+        Metrorex is the Romanian company which runs the Bucharest Metro. It is fully owned by the Romanian Government through the Ministry of Transportation. There were plans to merge the underground and overground transportation systems into one authority subordinated to the City of Bucharest, however these plans did not come to fruition.
+        \n\n
+        <b>Lines</b>
+        \n\n
+        There are 4 metro lines in operation, 1 under construction, and another 1 in the planning phase:
+        \n
+        <b> M1 Line:</b> between Dristor and Pantelimon – the first line to open (in 1979). It is circular with a North-Eastern spur. Part of its tracks are shared with M3 (7 stations).\n
+        <b>M2 Line:</b> between Pipera and Berceni opened in 1986, completed in 1988; Runs in a North-South direction, crossing the center.\n
+        <b>M3 Line:</b> between Preciziei and Anghel Saligny opened in 1983, completed in 2008; Runs in an East-West direction, south of the center. Shares part of its tracks with M1 (7 stations).\n
+        <b>M4 Line:</b> between Gara de Nord and Străulești opened in 2000, completed in 2017.
+        \n\n
+        <b>Hours of operation</b>
+        \n\n
+        Trains run from 5 AM to 11 PM, every day. The last trains on M1, M2 and M3 wait for the transfer of the passengers between lines to complete, before leaving Piața Unirii station.
+    </string>
+    <string name="content_description">Poza magistrala</string>
+    <string name="maximum_temperature">Maximum Temperature</string>
+    <string name="minimum_temperature">Minimum Temperature</string>
+    <string name="your_saved_routes">Your Saved Routes</string>
+    <string name="show_saved_routes">Show Saved Routes</string>
+    <string name="subway_stations">Subway Stations</string>
+    <string name="save">SAVE</string>
+    <string name="extract">EXTRACT</string>
+    <string name="stationName">Name</string>
+    <string name="account">Account</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="hint_email">Input email</string>
+    <string name="hint_pass">Input password</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "247254489016",
+    "firebase_url": "https://subway-app-b2c6d.firebaseio.com",
+    "project_id": "subway-app-b2c6d",
+    "storage_bucket": "subway-app-b2c6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247254489016:android:eb6bfaed2daaaf5caae14d",
+        "android_client_info": {
+          "package_name": "com.example.subwayproj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247254489016-81b036f0a1ti6vj7inkphcek616s9nea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.subwayproj",
+            "certificate_hash": "20e5b028fddce3aa6787913d5f35ddf0b6d4a244"
+          }
+        },
+        {
+          "client_id": "247254489016-cp01153pompqtv4k014epjdc871hmo60.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.subwayproj",
+            "certificate_hash": "d6b9fa85f92f54ea277b0718071703f18540c88f"
+          }
+        },
+        {
+          "client_id": "247254489016-pc5o7riatlp02dkscne0uvuf56hg9efj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsKf0ZOONqXfMkMihvtMNkUZ3o2Cyh3Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247254489016-pc5o7riatlp02dkscne0uvuf56hg9efj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
